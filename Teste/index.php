@@ -1,3 +1,3 @@
 <?php
-echo"Po cara num avacalha a parada não!";
+echo"Po cara, então tá tranquilo, valeu mano!";
 ?>
