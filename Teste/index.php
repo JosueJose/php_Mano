@@ -1,3 +1,3 @@
 <?php
-echo"Do comecinho!";
+echo"Mexi aqui mano, deu ruim pra tu kkkkk!";
 ?>
